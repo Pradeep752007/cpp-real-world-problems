@@ -10,6 +10,5 @@ and other application-oriented problems. And these are achieved by using core c+
 - atm_pin_verification.cpp
 - electricity_bill_generator.cpp
 - exam_result.cpp
-- swapping/
-   ─ swap_using_pointers.cpp
-   ─ swap_using_reference.cpp
+- swap_using_pointers.cpp
+- swap_using_reference.cpp
