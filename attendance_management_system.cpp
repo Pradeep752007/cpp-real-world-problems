@@ -15,7 +15,7 @@ Author       : Pradeep S
 using namespace std;
 
 int main(){
-    int password=1234;
+    const int password=1234;// Here keyword const is used so that no foreigner changes the correct password of the professor
     int pass;
     cout<<"-----------------------------------------------------------------------------------------------------"<<endl;
     cout<<"              WELCOME TO THE ATTENDANCE MANAGEMENT SYSTEM OF OUR COLLEGE              "<<endl;
