@@ -8,7 +8,7 @@ int main(){
     cout<<"Please insert your card "<<endl;
     int PIN;
     int attempt=0;
-    const int CorrectPIN=2345;
+    const int CorrectPIN=2345; // Here keyword const is used so that no foreigner changes the correct PIN of the user
     cout<<"Please Be careful while entering your pin as you will be provided with only three attempts"<<endl;
     while (attempt<3){
         cout<<"Enter your 4-digit PIN: ";
